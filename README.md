@@ -1,6 +1,6 @@
 # Veridian Dash
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Veridian-20251007-024727)
 
 Veridian Dash is a sophisticated, real-time analytics platform designed to provide institutional-grade insights into the stablecoin and Real-World Asset (RWA) ecosystem. The dashboard visualizes key performance indicators across leading blockchain platforms like Solana, Ethereum, and Binance Smart Chain. Core features include monitoring cross-border payment volumes, transaction processing speeds, gas fees, and related ETF price movements. The application is built as a visually stunning, information-dense interface with interactive charts, comparative analysis tools, and a focus on data clarity and user experience. It aims to be the definitive source for market participants to track the efficiency, cost, and market sentiment of stablecoin operations.
 
@@ -85,7 +85,7 @@ This application is designed to be deployed to Cloudflare's global network.
 
 Alternatively, you can deploy this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Veridian-20251007-024727)
 
 ## License
 
